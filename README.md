@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-green.svg)](README.md)
+[![id](https://img.shields.io/badge/lang-id-blue.svg)](README.id.md)
+
 # Simple Helpdesk
 
 A simple helpdesk system built with Laravel and Filament, designed for internal IT helpdesk or customer support.
@@ -9,8 +12,8 @@ A simple helpdesk system built with Laravel and Filament, designed for internal 
 - PHP 8.2+
 - SQLite
 
-![dashboard](https://ombimo.nos.jkt-1.neo.id/simple-helpdesk/dashboard.png)
-![create-ticket](https://ombimo.nos.jkt-1.neo.id/simple-helpdesk/create-ticket.png)
+![dashboard](https://nos.jkt-1.neo.id/ombimo/simple-helpdesk/dashboard.png)
+![create-ticket](https://nos.jkt-1.neo.id/ombimo/simple-helpdesk/create-ticket.png)
 
 ---
 

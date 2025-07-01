@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![id](https://img.shields.io/badge/lang-id-green.svg)](README.id.md)
+
 # Simple Helpdesk
 
 Sistem helpdesk sederhana yang dibangun dengan Laravel dan Filament, dirancang untuk kebutuhan helpdesk IT internal atau dukungan pelanggan.
@@ -9,8 +12,8 @@ Sistem helpdesk sederhana yang dibangun dengan Laravel dan Filament, dirancang u
 - PHP 8.2+
 - SQLite
 
-![dashboard](https://ombimo.nos.jkt-1.neo.id/simple-helpdesk/dashboard.png)
-![create-ticket](https://ombimo.nos.jkt-1.neo.id/simple-helpdesk/create-ticket.png)
+![dashboard](https://nos.jkt-1.neo.id/ombimo/simple-helpdesk/dashboard.png)
+![create-ticket](https://nos.jkt-1.neo.id/ombimo/simple-helpdesk/create-ticket.png)
 
 ---
 
