@@ -1,0 +1,11 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "single_line_comment_spacing": false,
+        "binary_operator_spaces": {
+            "operators": {
+                "=>": "align"
+            }
+        }
+    }
+}
