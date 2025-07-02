@@ -12,8 +12,8 @@ A simple helpdesk system built with Laravel and Filament, designed for internal 
 - PHP 8.2+
 - SQLite
 
-![dashboard](https://nos.jkt-1.neo.id/ombimo/simple-helpdesk/dashboard.png)
-![create-ticket](https://nos.jkt-1.neo.id/ombimo/simple-helpdesk/create-ticket.png)
+![dashboard](https://simple-helpdesk.ombimo.id/storage/screenshot/01-dashboard.png)
+![create-ticket](https://simple-helpdesk.ombimo.id/storage/screenshot/02-create-ticket.png)
 
 ---
 
